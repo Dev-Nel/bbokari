@@ -14,8 +14,7 @@ export default function Home() {
       <section className="max-w-2xl space-y-4">
         <h1 className="text-3xl font-bold">Bbokari</h1>
         <p className="text-base text-gray-700">
-          This is my project text—showing on the actual site. You can style and expand this
-          with more sections, links, or components as needed.
+          Made by Nelfavie.🔐
         </p>
       </section>
     </main>
